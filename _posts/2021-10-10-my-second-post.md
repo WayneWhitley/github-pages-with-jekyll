@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my state of confusion!"
+title: "Welcome..."
 date: 2021-10-10
 ---
 
