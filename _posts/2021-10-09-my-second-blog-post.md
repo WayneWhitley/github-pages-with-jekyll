@@ -1,6 +1,6 @@
 ---
 title: "more confusion"
-date: 2021-10-09
+date: 2021-10-10
 ---
 
 Well, it's late in the evening and thought I'd take another crack at this attempt to get a blog up and running.  As I near the end of the tutorial,
