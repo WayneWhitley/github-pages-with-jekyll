@@ -14,6 +14,11 @@ $$\int e^{-kx} \, dx = -\frac{1}{k} e^{-kx}$$
 
 $$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}} $$
 
+
+$$E=mc^2$$
+
+
+
 Well, it's late in the evening and thought I'd take another crack at this attempt to get a blog up and running.  As I near the end of the tutorial,
 there's so much to write about I think I may now have writer's block -- I can't seem to decide what to write about first!I can't seem to decide what to
 write about first!I can't seem to decide what to write about first!I can't seem to decide what to write about first!I can't seem to decide what to write about first!
