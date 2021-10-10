@@ -1,7 +1,7 @@
 ---
 title: "Welcome to my state of confusion!"
 date: 2021-10-10
-mathjax: true
+usemathjax: true
 ---
 
 
