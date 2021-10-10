@@ -13,3 +13,8 @@ I'm glad you are here. I plan to talk about ...
     </li>
   {% endfor %}
 </ul>
+
+<!-- MathJax -->
+<script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
