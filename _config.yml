@@ -4,8 +4,8 @@ email: WayneWhitley@McHargue.org
 theme: jekyll-theme-architect
 
 markdown: kramdown
-#kramdown:
-#    math_engine: katex
+kramdown:
+    math_engine: katex
 
 description: > # this means to ignore newlines until "baseurl:"
    This contains various code snippet descriptions and write-ups
