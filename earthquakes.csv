@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2019-06-28T11:17:31.734Z,8.4069,-80,22.89,4.4,mb,,84,0.413,0.81,us,us700046i1,2019-06-28T12:08:43.681Z,"TESTING5 - 3km NE of Finca Blanco Numero Uno, Panama",earthquake,5.6,6.4,0.067,64,reviewed,us,us
+2019-06-28T11:17:31.734Z,8.4069,-79,22.89,4.4,mb,,84,0.413,0.81,us,us700046i1,2019-06-28T12:08:43.681Z,"TESTING6 - 3km NE of Finca Blanco Numero Uno, Panama",earthquake,5.6,6.4,0.067,64,reviewed,us,us
 2019-06-28T09:24:08.880Z,37.5128326,-118.7975006,6.01,2.8,md,26,116,0.08105,0.05,nc,nc73203191,2019-06-28T11:50:03.687Z,"12km WSW of Toms Place, CA",earthquake,0.26,1,0.17,31,automatic,nc,nc
 2019-06-28T08:30:42.866Z,-29.3884,-70.916,81.42,5,mww,,89,0.42,0.72,us,us700046ge,2019-06-28T12:13:26.262Z,"66km NNE of La Serena, Chile",earthquake,6.6,4.2,0.061,26,reviewed,us,us
 2019-06-28T07:39:53.710Z,19.4121666,-155.2940063,-0.07,2.6,ml,17,78,0.007904,0.2,hv,hv71013771,2019-06-28T07:45:33.560Z,"6km WSW of Volcano, Hawaii",earthquake,0.22,0.3,0.5,16,automatic,hv,hv
